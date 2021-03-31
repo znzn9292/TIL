@@ -10,5 +10,5 @@ Today I Learned
 * 2021-03-26 : [Mockito Stubbing](Junit5/2021-03-26.md) <br>
 * 2021-03-27 : [Mockito Object](Junit5/2021-03-27.md) <br>
 * 2021-03-28 : [Mockito BDD](Junit5/2021-03-28.md) <br>
-* 2021-03-29 : [JPA Persistence Context & 1차 캐시](Junit5/2021-03-29.md) <br>
-* 2021-03-30 : [JPA Entity Mapping](Junit5/2021-03-30.md) <br>
+* 2021-03-29 : [JPA Persistence Context & 1차 캐시](JPA/2021-03-29.md) <br>
+* 2021-03-30 : [JPA Entity Mapping](JPA/2021-03-30.md) <br>
