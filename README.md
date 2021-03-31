@@ -13,3 +13,4 @@ Today I Learned
 * 2021-03-29 : [JPA Persistence Context & 1차 캐시](JPA/2021-03-29.md) <br>
 * 2021-03-30 : [JPA Entity Mapping](JPA/2021-03-30.md) <br>
 * 2021-03-30 : [JPA 연관관계](JPA/2021-03-31.md) <br>
+* 2021-03-30 : [JPA 다양한 연관관계] <br>
