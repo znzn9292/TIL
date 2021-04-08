@@ -17,5 +17,5 @@ Today I Learned
 * 2021-04-02 : [JPA 다양한 연관관계](JPA/2021-04-02.md) <br>
 * 2021-04-03 : [JPA 고급 매핑](JPA/2021-04-03.md) <br>
 * 2021-04-04 : [JPA Proxy](JPA/2021-04-04.md) <br>
-* 2021-04-08 : [Vue Directive](JPA/2021-04-08.md) <br>
-* 2021-04-09 : [Vue Component](JPA/2021-04-09.md) <br>
+* 2021-04-08 : [Vue Directive](Vue/2021-04-08.md) <br>
+* 2021-04-09 : [Vue Component](Vue/2021-04-09.md) <br>
