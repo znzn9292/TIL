@@ -19,3 +19,4 @@ Today I Learned
 * 2021-04-04 : [JPA Proxy](JPA/2021-04-04.md) <br>
 * 2021-04-08 : [Vue Directive](Vue/2021-04-08.md) <br>
 * 2021-04-09 : [Vue Component](Vue/2021-04-09.md) <br>
+* 2021-04-10 : [Vue Life Cycle](Vue/2021-04-10.md) <br>
