@@ -21,3 +21,5 @@ Today I Learned
 * 2021-04-09 : [Vue Component](Vue/2021-04-09.md) <br>
 * 2021-04-10 : [Vue Life Cycle](Vue/2021-04-10.md) <br>
 * 2021-04-11 : [Vue computed & watch](Vue/2021-04-11.md) <br>
+* 2021-04-15 : [Vue 조건부 렌더링 & 리스트 렌더링](Vue/2021-04-15.md) <br>
+* 2021-04-16 : [Vue Method Event](Vue/2021-04-16.md) <br>
