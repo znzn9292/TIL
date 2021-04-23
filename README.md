@@ -24,3 +24,5 @@ Today I Learned
 * 2021-04-15 : [Vue 조건부 렌더링 & 리스트 렌더링](Vue/2021-04-15.md) <br>
 * 2021-04-16 : [Vue Method Event](Vue/2021-04-16.md) <br>
 * 2021-04-17 : [Vue Component Detail](Vue/2021-04-17.md) <br>
+* 2021-04-18 : [Vue Todo-app Project 01](Vue/2021-04-18.md) <br>
+* 2021-04-19 : [Vue Todo-app Project 02](Vue/2021-04-19.md) <br>
