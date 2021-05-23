@@ -31,3 +31,6 @@ Today I Learned
 * 2021-05-01 : [Vue Todo-app Project 05 - Eslint](Vue/2021-05-01.md) <br>
 * 2021-05-02 : [Vue Todo-app Project 06 - LocalStorage](Vue/2021-05-02.md) <br>
 * 2021-05-12 : [Vue Router](Vue/2021-05-12.md) <br>
+* 2021-05-13 : [Vue 해쉬 모드/히스토리 모드](Vue/2021-05-13.md) <br>
+* 2021-05-20 : [Vue External Install](Vue/2021-05-20.md) <br>
+* 2021-05-23 : [Vue axios / Promise 객체](Vue/2021-05-23.md) <br>
