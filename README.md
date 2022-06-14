@@ -24,6 +24,7 @@ Today I Learned
 ## Docker 
 * [Docker Container](Docker/2022-06-13.md) <br>
 * [Docker Image](Docker/2022-06-14.md) <br>
+* [Docker File](Docker/2022-06-15.md) <br>
 
 ## Vue
 * [Vue Directive](Vue/2021-04-08.md) <br>
