@@ -26,7 +26,7 @@ Today I Learned
 * [Docker Image](Docker/2022-06-14.md) <br>
 * [Docker File](Docker/2022-06-15.md) <br>
 * [Docker Registry](Docker/2022-06-16.md) <br>
-* [Docker Registry](Docker/2022-06-17.md) <br>
+* [Docker Management](Docker/2022-06-17.md) <br>
 
 ## Vue
 * [Vue Directive](Vue/2021-04-08.md) <br>
